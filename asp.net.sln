@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "asp.net", "asp.net\asp.net.csproj", "{42E4A20F-D6EC-40DD-8DD9-DD4C7C12DA89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "viewState", "viewState\viewState.csproj", "{748DD0AA-90B5-4786-964E-F073539BE750}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42E4A20F-D6EC-40DD-8DD9-DD4C7C12DA89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42E4A20F-D6EC-40DD-8DD9-DD4C7C12DA89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42E4A20F-D6EC-40DD-8DD9-DD4C7C12DA89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42E4A20F-D6EC-40DD-8DD9-DD4C7C12DA89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{748DD0AA-90B5-4786-964E-F073539BE750}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{748DD0AA-90B5-4786-964E-F073539BE750}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{748DD0AA-90B5-4786-964E-F073539BE750}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{748DD0AA-90B5-4786-964E-F073539BE750}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
