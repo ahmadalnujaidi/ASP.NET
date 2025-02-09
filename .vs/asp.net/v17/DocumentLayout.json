@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\a\\Desktop\\asp.net\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{748DD0AA-90B5-4786-964E-F073539BE750}|viewState\\viewState.csproj|c:\\users\\a\\desktop\\asp.net\\viewstate\\webform4.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{748DD0AA-90B5-4786-964E-F073539BE750}|viewState\\viewState.csproj|solutionrelative:viewstate\\webform4.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{82BB1733-A7C8-4A29-B7AA-007EC63185C7}|EventsLifeCycle\\EventsLifeCycle.csproj|c:\\users\\a\\desktop\\asp.net\\eventslifecycle\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{82BB1733-A7C8-4A29-B7AA-007EC63185C7}|EventsLifeCycle\\EventsLifeCycle.csproj|solutionrelative:eventslifecycle\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,24 +14,24 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "WebForm4.aspx",
-              "DocumentMoniker": "C:\\Users\\a\\Desktop\\asp.net\\viewState\\WebForm4.aspx",
-              "RelativeDocumentMoniker": "viewState\\WebForm4.aspx",
-              "ToolTip": "C:\\Users\\a\\Desktop\\asp.net\\viewState\\WebForm4.aspx",
-              "RelativeToolTip": "viewState\\WebForm4.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-02-09T18:50:54.018Z",
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\a\\Desktop\\asp.net\\EventsLifeCycle\\Web.config",
+              "RelativeDocumentMoniker": "EventsLifeCycle\\Web.config",
+              "ToolTip": "C:\\Users\\a\\Desktop\\asp.net\\EventsLifeCycle\\Web.config",
+              "RelativeToolTip": "EventsLifeCycle\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-02-09T19:21:30.408Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             }
           ]
         }

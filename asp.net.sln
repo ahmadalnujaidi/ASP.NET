@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "asp.net", "asp.net\asp.net.csproj", "{42E4A20F-D6EC-40DD-8DD9-DD4C7C12DA89}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "viewState", "viewState\viewState.csproj", "{748DD0AA-90B5-4786-964E-F073539BE750}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventsLifeCycle", "EventsLifeCycle\EventsLifeCycle.csproj", "{82BB1733-A7C8-4A29-B7AA-007EC63185C7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{748DD0AA-90B5-4786-964E-F073539BE750}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{748DD0AA-90B5-4786-964E-F073539BE750}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{748DD0AA-90B5-4786-964E-F073539BE750}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82BB1733-A7C8-4A29-B7AA-007EC63185C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82BB1733-A7C8-4A29-B7AA-007EC63185C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82BB1733-A7C8-4A29-B7AA-007EC63185C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82BB1733-A7C8-4A29-B7AA-007EC63185C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
