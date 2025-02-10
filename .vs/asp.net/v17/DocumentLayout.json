@@ -1,34 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\a\\Desktop\\asp.net\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{82BB1733-A7C8-4A29-B7AA-007EC63185C7}|EventsLifeCycle\\EventsLifeCycle.csproj|c:\\users\\a\\desktop\\asp.net\\eventslifecycle\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{82BB1733-A7C8-4A29-B7AA-007EC63185C7}|EventsLifeCycle\\EventsLifeCycle.csproj|solutionrelative:eventslifecycle\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\ahmad\\OneDrive\\Desktop\\ASP.NET\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 200,
-          "SelectedChildIndex": 0,
+          "DockedHeight": 213,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\a\\Desktop\\asp.net\\EventsLifeCycle\\Web.config",
-              "RelativeDocumentMoniker": "EventsLifeCycle\\Web.config",
-              "ToolTip": "C:\\Users\\a\\Desktop\\asp.net\\EventsLifeCycle\\Web.config",
-              "RelativeToolTip": "EventsLifeCycle\\Web.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-02-09T19:21:30.408Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
