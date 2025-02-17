@@ -21,6 +21,7 @@
                             <asp:ListItem>Mrs.</asp:ListItem>
                             <asp:ListItem>Ms.</asp:ListItem>
                         </asp:DropDownList>
+                        <asp:Button ID="Button2" runat="server" Text="More" OnClick="Button2_Click" />
                     </td>
                 </tr>
                 <tr>
@@ -41,10 +42,12 @@
                 <tr>
                     <td>
                         <asp:Button ID="Button1" runat="server" Text="Submit" OnClick="Button1_Click" /></td>
-                    <td><asp:LinkButton ID="LinkButton1" runat="server">Clear</asp:LinkButton></td>
+                    <td>
+                        <asp:LinkButton ID="LinkButton1" runat="server" OnClick="LinkButton1_Click">Clear</asp:LinkButton></td>
                 </tr>
             </table>
         </div>
+        <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/WebForm2.aspx" Target="_blank">Help</asp:HyperLink>
     </form>
 </body>
 </html>
