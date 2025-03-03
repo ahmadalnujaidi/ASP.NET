@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dropDown", "dropDown\dropDo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlsExc2", "ControlsExc2\ControlsExc2.csproj", "{9C6FD84B-08CC-4254-8153-92CA1619723C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "requiredFieldValidator", "requiredFieldValidator\requiredFieldValidator.csproj", "{87DC4AF4-46DD-463C-93BA-4094998EC616}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rangeValidator", "rangeValidator\rangeValidator.csproj", "{15C8829D-94F0-4260-BF21-4614A3BD420E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{9C6FD84B-08CC-4254-8153-92CA1619723C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C6FD84B-08CC-4254-8153-92CA1619723C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C6FD84B-08CC-4254-8153-92CA1619723C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87DC4AF4-46DD-463C-93BA-4094998EC616}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87DC4AF4-46DD-463C-93BA-4094998EC616}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87DC4AF4-46DD-463C-93BA-4094998EC616}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87DC4AF4-46DD-463C-93BA-4094998EC616}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15C8829D-94F0-4260-BF21-4614A3BD420E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15C8829D-94F0-4260-BF21-4614A3BD420E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15C8829D-94F0-4260-BF21-4614A3BD420E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15C8829D-94F0-4260-BF21-4614A3BD420E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
