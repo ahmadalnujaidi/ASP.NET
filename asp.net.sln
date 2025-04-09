@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "customValidator", "customVa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "databases", "databases\databases.csproj", "{4CA1F83A-B61B-4792-957B-E5F1993FC2A1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "masterPages", "masterPages\masterPages.csproj", "{088115CF-BFEF-425F-9403-6F98A84F9759}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{4CA1F83A-B61B-4792-957B-E5F1993FC2A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4CA1F83A-B61B-4792-957B-E5F1993FC2A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4CA1F83A-B61B-4792-957B-E5F1993FC2A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{088115CF-BFEF-425F-9403-6F98A84F9759}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{088115CF-BFEF-425F-9403-6F98A84F9759}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{088115CF-BFEF-425F-9403-6F98A84F9759}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{088115CF-BFEF-425F-9403-6F98A84F9759}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
