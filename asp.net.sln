@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "databases", "databases\data
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "masterPages", "masterPages\masterPages.csproj", "{088115CF-BFEF-425F-9403-6F98A84F9759}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "navigation", "navigation\navigation.csproj", "{C5343598-5FF5-4488-A0C5-DF60A82EDF01}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{088115CF-BFEF-425F-9403-6F98A84F9759}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{088115CF-BFEF-425F-9403-6F98A84F9759}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{088115CF-BFEF-425F-9403-6F98A84F9759}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5343598-5FF5-4488-A0C5-DF60A82EDF01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5343598-5FF5-4488-A0C5-DF60A82EDF01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5343598-5FF5-4488-A0C5-DF60A82EDF01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5343598-5FF5-4488-A0C5-DF60A82EDF01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

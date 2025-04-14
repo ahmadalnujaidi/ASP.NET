@@ -1,7 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\a\\Desktop\\ASP.NET\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\ahmad\\OneDrive\\Desktop\\ASP.NET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5343598-5FF5-4488-A0C5-DF60A82EDF01}|navigation\\navigation.csproj|c:\\users\\ahmad\\onedrive\\desktop\\asp.net\\navigation\\responseredirect.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C5343598-5FF5-4488-A0C5-DF60A82EDF01}|navigation\\navigation.csproj|solutionrelative:navigation\\responseredirect.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedHeight": 213,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "responseRedirect.aspx",
+              "DocumentMoniker": "C:\\Users\\ahmad\\OneDrive\\Desktop\\ASP.NET\\navigation\\responseRedirect.aspx",
+              "RelativeDocumentMoniker": "navigation\\responseRedirect.aspx",
+              "ToolTip": "C:\\Users\\ahmad\\OneDrive\\Desktop\\ASP.NET\\navigation\\responseRedirect.aspx",
+              "RelativeToolTip": "navigation\\responseRedirect.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-14T08:20:12.169Z",
+              "EditorCaption": ""
             }
           ]
         }
