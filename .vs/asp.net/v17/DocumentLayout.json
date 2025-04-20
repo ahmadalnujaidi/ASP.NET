@@ -1,10 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ahmad\\OneDrive\\Desktop\\ASP.NET\\",
+  "WorkspaceRootPath": "C:\\Users\\a\\Desktop\\ASP.NET\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C5343598-5FF5-4488-A0C5-DF60A82EDF01}|navigation\\navigation.csproj|c:\\users\\ahmad\\onedrive\\desktop\\asp.net\\navigation\\responseredirect.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{C5343598-5FF5-4488-A0C5-DF60A82EDF01}|navigation\\navigation.csproj|solutionrelative:navigation\\responseredirect.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{4CA1F83A-B61B-4792-957B-E5F1993FC2A1}|databases\\databases.csproj|C:\\Users\\a\\Desktop\\ASP.NET\\databases\\webform4.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA1F83A-B61B-4792-957B-E5F1993FC2A1}|databases\\databases.csproj|solutionrelative:databases\\webform4.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA1F83A-B61B-4792-957B-E5F1993FC2A1}|databases\\databases.csproj|C:\\Users\\a\\Desktop\\ASP.NET\\databases\\webform4.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4CA1F83A-B61B-4792-957B-E5F1993FC2A1}|databases\\databases.csproj|solutionrelative:databases\\webform4.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\a\\Desktop\\University\\spring 2025\\ecom\\Practice2\\WebForm1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA1F83A-B61B-4792-957B-E5F1993FC2A1}|databases\\databases.csproj|C:\\Users\\a\\Desktop\\ASP.NET\\databases\\webform3.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA1F83A-B61B-4792-957B-E5F1993FC2A1}|databases\\databases.csproj|solutionrelative:databases\\webform3.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA1F83A-B61B-4792-957B-E5F1993FC2A1}|databases\\databases.csproj|C:\\Users\\a\\Desktop\\ASP.NET\\databases\\webform3.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4CA1F83A-B61B-4792-957B-E5F1993FC2A1}|databases\\databases.csproj|solutionrelative:databases\\webform3.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\a\\Desktop\\ASP.NET\\databases\\WebForm5.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:databases\\WebForm5.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\a\\Desktop\\ASP.NET\\databases\\WebForm5.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:databases\\WebForm5.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +37,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 213,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,16 +45,90 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "responseRedirect.aspx",
-              "DocumentMoniker": "C:\\Users\\ahmad\\OneDrive\\Desktop\\ASP.NET\\navigation\\responseRedirect.aspx",
-              "RelativeDocumentMoniker": "navigation\\responseRedirect.aspx",
-              "ToolTip": "C:\\Users\\ahmad\\OneDrive\\Desktop\\ASP.NET\\navigation\\responseRedirect.aspx",
-              "RelativeToolTip": "navigation\\responseRedirect.aspx",
+              "DocumentIndex": 2,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\a\\Desktop\\University\\spring 2025\\ecom\\Practice2\\WebForm1.aspx.cs",
+              "RelativeDocumentMoniker": "..\\University\\spring 2025\\ecom\\Practice2\\WebForm1.aspx.cs",
+              "ToolTip": "C:\\Users\\a\\Desktop\\University\\spring 2025\\ecom\\Practice2\\WebForm1.aspx.cs",
+              "RelativeToolTip": "..\\University\\spring 2025\\ecom\\Practice2\\WebForm1.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T18:18:20.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebForm5.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\a\\Desktop\\ASP.NET\\databases\\WebForm5.aspx.cs",
+              "RelativeDocumentMoniker": "databases\\WebForm5.aspx.cs",
+              "ToolTip": "C:\\Users\\a\\Desktop\\ASP.NET\\databases\\WebForm5.aspx.cs",
+              "RelativeToolTip": "databases\\WebForm5.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T17:56:11.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WebForm5.aspx",
+              "DocumentMoniker": "C:\\Users\\a\\Desktop\\ASP.NET\\databases\\WebForm5.aspx",
+              "RelativeDocumentMoniker": "databases\\WebForm5.aspx",
+              "ToolTip": "C:\\Users\\a\\Desktop\\ASP.NET\\databases\\WebForm5.aspx",
+              "RelativeToolTip": "databases\\WebForm5.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-04-14T08:20:12.169Z",
+              "WhenOpened": "2025-04-20T17:56:02.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm4.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\a\\Desktop\\ASP.NET\\databases\\WebForm4.aspx.cs",
+              "RelativeDocumentMoniker": "databases\\WebForm4.aspx.cs",
+              "ToolTip": "C:\\Users\\a\\Desktop\\ASP.NET\\databases\\WebForm4.aspx.cs",
+              "RelativeToolTip": "databases\\WebForm4.aspx.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T17:00:29.821Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebForm4.aspx",
+              "DocumentMoniker": "C:\\Users\\a\\Desktop\\ASP.NET\\databases\\WebForm4.aspx",
+              "RelativeDocumentMoniker": "databases\\WebForm4.aspx",
+              "ToolTip": "C:\\Users\\a\\Desktop\\ASP.NET\\databases\\WebForm4.aspx",
+              "RelativeToolTip": "databases\\WebForm4.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-20T16:59:55.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebForm3.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\a\\Desktop\\ASP.NET\\databases\\WebForm3.aspx.cs",
+              "RelativeDocumentMoniker": "databases\\WebForm3.aspx.cs",
+              "ToolTip": "C:\\Users\\a\\Desktop\\ASP.NET\\databases\\WebForm3.aspx.cs",
+              "RelativeToolTip": "databases\\WebForm3.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T16:28:34.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebForm3.aspx",
+              "DocumentMoniker": "C:\\Users\\a\\Desktop\\ASP.NET\\databases\\WebForm3.aspx",
+              "RelativeDocumentMoniker": "databases\\WebForm3.aspx",
+              "ToolTip": "C:\\Users\\a\\Desktop\\ASP.NET\\databases\\WebForm3.aspx",
+              "RelativeToolTip": "databases\\WebForm3.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-20T16:28:26.495Z"
             }
           ]
         }
